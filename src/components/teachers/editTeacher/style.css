@@ -1,0 +1,136 @@
+.edit_main_div {
+  width: 100%;
+}
+.edit_main_div .edit_content_main_div .header_text_button_div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 40px;
+}
+
+.edit_main_div .edit_content_main_div .header_text_button_div .text_div p {
+  margin: 0px;
+  color: #979998;
+  font-size: 15px;
+  font-weight: 500;
+}
+.edit_main_div
+  .edit_content_main_div
+  .header_text_button_div
+  .button_div
+  button {
+  background: #2c7bf2;
+  color: white;
+  border: 1px solid #2c7bf2;
+  border-radius: 4px;
+padding: 5px 20px;
+  cursor: pointer;
+}
+.edit_main_div
+  .edit_content_main_div
+  .header_text_button_div
+  .button_div
+  button:hover {
+  background-color: #28508b;
+}
+.edit_main_div .edit_content_main_div .color_div {
+  width: 100%;
+  height: 10px;
+  background: #f8f9fb;
+}
+.edit_main_div .edit_content_main_div .form_main_div {
+  width: 80%;
+  padding: 0px 40px;
+}
+.edit_main_div
+  .edit_content_main_div
+  .form_main_div
+  .main_form
+  .name_input_div {
+  padding: 20px 0px;
+}
+.edit_main_div
+  .edit_content_main_div
+  .form_main_div
+  .main_form
+  .name_input_div
+  .name_lable {
+  padding: 5px 0px;
+}
+.edit_main_div
+  .edit_content_main_div
+  .form_main_div
+  .main_form
+  .name_input_div
+  input {
+  width: 100%;
+  padding: 5px;
+}
+.edit_main_div
+  .edit_content_main_div
+  .form_main_div
+  .main_form
+  .name_input_div
+  .select_option {
+  width: 100%;
+  padding: 5px;
+}
+.edit_main_div .edit_content_main_div .form_main_div .main_form .button_div {
+  display: flex;
+  padding: 30px 0px;
+}
+.edit_main_div
+  .edit_content_main_div
+  .form_main_div
+  .main_form
+  .button_div
+  .cancel_button {
+  padding-right: 20px;
+}
+.edit_main_div
+  .edit_content_main_div
+  .form_main_div
+  .main_form
+  .button_div
+  .cancel_button
+  button {
+  background: white;
+  color: gray;
+  border: 1px solid gray;
+  border-radius: 4px;
+  padding: 5px 20px;
+}
+.edit_main_div
+  .edit_content_main_div
+  .form_main_div
+  .main_form
+  .button_div
+  .cancel_button
+  button:hover{
+    background-color: gray;
+    color: white;
+  }
+.edit_main_div
+  .edit_content_main_div
+  .form_main_div
+  .main_form
+  .button_div
+  .update_button
+  button {
+    background: #2c7bf2;
+    color: white;
+    border: 1px solid #2c7bf2;
+    border-radius: 4px;
+    padding: 5px 20px;
+    cursor: pointer;
+}
+.edit_main_div
+  .edit_content_main_div
+  .form_main_div
+  .main_form
+  .button_div
+  .update_button
+  button:hover{
+background-color: #28508b;
+  }
+  

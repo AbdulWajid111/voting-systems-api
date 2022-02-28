@@ -1,0 +1,73 @@
+.main_container_side_nav {
+  width: 100%;
+}
+.main_container_side_nav .main_content_side_nav {
+  background: #2c7bf1;
+  min-height: 100vh;
+}
+.main_container_side_nav .main_content_side_nav .image_div {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0px;
+}
+.main_container_side_nav .main_content_side_nav .image_div img {
+  height: 80px;
+}
+.main_container_side_nav .main_content_side_nav .main_lists_div {
+  display: flex;
+  justify-content: center;
+}
+
+.main_container_side_nav .main_content_side_nav .main_lists_div .main_ul {
+  list-style: none;
+  margin: 0px;
+  padding: 20px 0px;
+  cursor: pointer;
+}
+
+.main_container_side_nav
+  .main_content_side_nav
+  .main_lists_div
+  .main_ul
+  .teacher {
+  padding: 10px 0px;
+  color: #63aafe;
+}
+.main_container_side_nav
+  .main_content_side_nav
+  .main_lists_div
+  .main_ul
+  .active_teacher {
+  padding: 10px 0px;
+  color: white;
+}
+.main_container_side_nav
+  .main_content_side_nav
+  .main_lists_div
+  .main_ul
+  .teacher:hover {
+  color: white;
+}
+.main_container_side_nav
+  .main_content_side_nav
+  .main_lists_div
+  .main_ul
+  .student {
+  padding: 10px 0px;
+  color: #63aafe;
+}
+.main_container_side_nav
+  .main_content_side_nav
+  .main_lists_div
+  .main_ul
+  .active_student{
+  padding: 10px 0px;
+  color: white;
+}
+.main_container_side_nav
+  .main_content_side_nav
+  .main_lists_div
+  .main_ul
+  .student:hover {
+  color: white;
+}
